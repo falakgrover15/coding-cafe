@@ -21,3 +21,14 @@ My commit printed `2 files changed, 4 insertions(+)` and created `.gitignore` an
 
 ## Question 8
 The first seven characters of my first commit hash are `1b3875e`. They are an abbreviated identifier for the commit, allowing me to refer to it without typing the entire hash.
+9. The four steps are edit the file, check changes using `git status`, stage changes using `git add`, and save them using `git commit`.
+
+10. `README.md` is displayed automatically on GitHub’s repository front page. It introduces the project and explains its purpose and contents.
+
+11. `gh auth login` authenticated my GitHub account and saved the credentials needed for future Git operations, so I do not need to enter a password every time I push.
+
+12. The contents of `README.md` appear on the front page because GitHub automatically renders this file as formatted text to introduce the project.
+
+13. No, pushing did not change my local Git history. It uploaded my existing commits to GitHub.
+
+14. A private repository exists on GitHub but is accessible only to its owner and authorized collaborators. If a repository does not exist on GitHub, there is no hosted copy there, even if the project exists on my computer.
